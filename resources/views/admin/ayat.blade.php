@@ -1,4 +1,5 @@
 @extends('layouts.layout')
+@section('title','Data Ayat')
 @section('content')
 <div class="content-wrapper">
     <div class="col-lg-12 grid-margin stretch-card">
