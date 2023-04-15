@@ -21,7 +21,7 @@ class LoginController extends Controller
         $password = $req->input('password');
         $data = User::where('email', $email)->first();
         if ($data != null) {
-            if (Hash::check($password, $data->password) && $data->role_id != 1) {
+            if (Hash::check($password, $data->password)) {
                 Session::put('id', $data->id);
                 Session::put('name', $data->name);
                 Session::put('email', $data->email);
