@@ -25,7 +25,7 @@ class CreateTblSurahs extends Migration
             $table->boolean('use_bismillah');
             $table->timestamps();
 
-            $table->foreign('section_id')->references('index')->on('master_sections')->onDelete('cascade');
+            //$table->foreign('section_id')->references('index')->on('master_sections')->onDelete('cascade');
         });
     }
 
