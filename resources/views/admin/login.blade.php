@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>PolluxUI Admin</title>
+  <title>Login Admin</title>
   <!-- base:css -->
   <link rel="stylesheet" href="{{ asset('assets/vendors/typicons/typicons.css')}}">
   <link rel="stylesheet" href="{{ asset('assets/vendors/css/vendor.bundle.base.css')}}">
@@ -26,9 +26,9 @@
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
               <div class="brand-logo">
-                <img src="{{ asset('assets/images/OUM-logo-login.png')}}"  style="width: 80px;" alt="logo">
+                <img src="{{ asset('assets/images/langkahnyatalogo.png')}}"  style="width: 160px;" alt="logo">
               </div>
-              <h5>Web Admin | One Ummah</h5>
+              <h5>Web Admin | Langkah Nyata</h5>
               <h6 class="font-weight-light">Sign in to continue.</h6>
               <form action="{{ url('/login') }}" method="Post" id="loginform">
               {{ csrf_field() }}

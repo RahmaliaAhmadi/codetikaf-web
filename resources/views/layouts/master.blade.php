@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>One Ummah Admin</title>
+    <title>Langkah Nyata</title>
     <!-- base:css -->
     <link rel="stylesheet" href="{{ asset('assets/vendors/typicons.font/font/typicons.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/vendors/css/vendor.bundle.base.css')}}">

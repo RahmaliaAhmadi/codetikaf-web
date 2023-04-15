@@ -1,5 +1,6 @@
 @extends('layouts.layout')
 @section('content')
+<title>    {{ $slug }}</title>
 <div class="content-wrapper">
     <div class="col-lg-12 grid-margin stretch-card">
         <div class="card">

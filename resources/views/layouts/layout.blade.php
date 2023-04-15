@@ -5,7 +5,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>PolluxUI Admin</title>
+
+  <title>user admin</title>
   <!-- base:css -->
   <link rel="stylesheet" href="{{ asset('assets/vendors/typicons/typicons.css')}}">
   <link rel="stylesheet" href="{{ asset('assets/vendors/css/vendor.bundle.base.css')}}">
@@ -25,7 +26,7 @@
     <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="navbar-brand-wrapper d-flex justify-content-center">
         <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">
-          <a class="navbar-brand brand-logo" style="width: 50px;" href="index.html"><img src="{{ asset('assets/images/OUM-Apps-Logo.png')}}" alt="logo" /></a>
+          <a class="navbar-brand brand-logo" style="width: 210px;" href="index.html"><img src="{{ asset('assets/images/langkahnyatalogo.png')}}" alt="logo" /></a>
           <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
             <span class="typcn typcn-th-menu"></span>
           </button>
@@ -357,8 +358,8 @@
         <div class="card">
           <div class="card-body">
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
-              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2022 </span>
-              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center text-muted">One Ummah | V.01</span>
+              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2023 </span>
+              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center text-muted">Langkah Nyata | V.01</span>
             </div>
           </div>
         </div>
